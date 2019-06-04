@@ -6,7 +6,6 @@ An ESP32 Grbl board w/ Adduino R3 formfactor
 
 <br/>
 <br/>
-Reference:<br/>
-![ESP32 GRBL](https://github.com/bdring/Grbl_Esp32) <br/>
-![Diptrace](https://diptrace.com/) <br/>
-
+### References
+  - [ESP32 GRBL](https://github.com/bdring/Grbl_Esp32) <br/>
+  - [Diptrace](https://diptrace.com/) <br/>
