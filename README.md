@@ -12,3 +12,4 @@ An ESP32 Grbl board w/ Adduino R3 formfactor! (Not validated!)
   - [GRBL](https://github.com/gnea/grbl/wiki) <br>
   - [ESP32 GRBL](https://github.com/bdring/Grbl_Esp32) <br>
   - [Diptrace](https://diptrace.com/) <br>
+  - [The WiFi WebUI](https://github.com/luc-github/ESP3D-WEBUI)
