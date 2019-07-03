@@ -2,7 +2,7 @@
 An ESP32 Grbl board w/ Adduino Mega/R3 formfactor! (Not validated!)
 
 ![R3Esp32Grbl](R3ESP32Grbl_BlockDiagram.png) <br>
-![Mega32Grbl Board](Hardware/Mega32Grbl_svga.png) ![Mega32Shield Board](Hardware/Mega32Shield_svga.png)
+![Mega32Grbl Board](Hardware/Mega32Grbl_svga.png) | ![Mega32Shield Board](Hardware/Mega32Shield_svga.png)
 <br>
 <br>
 
