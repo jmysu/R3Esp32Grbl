@@ -1,5 +1,5 @@
 # R3Esp32Grbl
-An ESP32 Grbl board w/ Adduino R3 formfactor! (Not validated!)
+An ESP32 Grbl board w/ Adduino Mega/R3 formfactor! (Not validated!)
 
 ![R3Esp32Grbl](R3ESP32Grbl_BlockDiagram.png) <br>
 ![3D Board](Hardware/Mega32Grbl.png)
