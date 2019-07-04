@@ -1,13 +1,9 @@
 language: node_js
 node_js:
-  - "6"
+ - "node"
 notifications:
     email:
         recipients:
             - gimmysu@gmail.com
         on_success: always
         on_failure: always
-install:
-    
-script:
-   
