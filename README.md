@@ -12,4 +12,4 @@ Two ESP32 modules supported! (Lolin-D32 32pin-1" / ESP32-DevKitC 38pin-1.1") <br
 ### References
   - [GRBL](https://github.com/gnea/grbl/wiki) <br>
   - [ESP32 GRBL](https://github.com/bdring/Grbl_Esp32) <br>
-  - [The WiFi WebUI](https://github.com/luc-github/ESP3D-WEBUI)
+  - [The WiFi ESP3D-WebUI](https://github.com/luc-github/ESP3D-WEBUI)
