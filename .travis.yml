@@ -9,7 +9,5 @@ notifications:
         on_failure: always
 script:
   - echo 'Build starts!!'
-  - echo 'Installing Deps!'
-  - yarn
   - echo 'Testing!'
   - npm -v
