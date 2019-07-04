@@ -7,3 +7,9 @@ notifications:
             - gimmysu@gmail.com
         on_success: always
         on_failure: always
+script:
+  - echo 'Build starts!!'
+  - echo 'Installing Deps!'
+  - yarn
+  - echo 'Testing!'
+  - npm run test:prod
