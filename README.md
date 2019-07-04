@@ -1,4 +1,7 @@
-# Mega32Grbl [![Build Status](https://travis-ci.com/jmysu/R3Esp32Grbl.svg?branch=master)](https://travis-ci.com/jmysu/R3Esp32Grbl)
+# Mega32Grbl 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Build Status](https://travis-ci.com/jmysu/R3Esp32Grbl.svg?branch=master)](https://travis-ci.com/jmysu/R3Esp32Grbl)
+<br>
 An ESP32 Grbl board w/ Arduino Mega/R3 formfactor! (Not validated yet!)<br>
 
 <img src="Mega32BlockDiagramV09.png" width="640"/> <br>
