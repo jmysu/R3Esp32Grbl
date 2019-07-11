@@ -11,7 +11,6 @@ Two ESP32 modules supported! ( ESP32-DevKitC 38pin-1.1" / Lolin-D32 32pin-1") <b
 ESP32 GRBL CPU/IO mapping<br><img src="Hardware/CPU_IO_MAP.png" width="600"><br>
 
 Mega32 CPU/IO mapping<br><img src="Hardware/Mega32_CPU_MAP.png" width="700"><br>
-<br>
 <br> 
 
 ### References
