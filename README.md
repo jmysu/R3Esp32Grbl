@@ -8,9 +8,9 @@ An ESP32 Grbl board w/ Arduino Mega/R3 formfactor! (Not validated yet!)<br>
 Two ESP32 modules supported! ( ESP32-DevKitC 38pin-1.1" / Lolin-D32 32pin-1") <br>
 <img src="Hardware/ESP32s_D32.png" width="640" height="300"><br><br>
 
-ESP32 GRBL CPU/IO mapping <img src="Hardware/CPU_IO_MAP.png" width="640"><br>
+ESP32 GRBL CPU/IO mapping<br><img src="Hardware/CPU_IO_MAP.png" width="600"><br>
 
-Mega32 CPU/IO mapping <img src="Hardware/Mega32_CPU_MAP.png" width="720"><br>
+Mega32 CPU/IO mapping<br><img src="Hardware/Mega32_CPU_MAP.png" width="700"><br>
 <br>
 <br> 
 
