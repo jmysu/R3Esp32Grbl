@@ -4,6 +4,14 @@ node_js:
 cache:
   directories:
     - node_modules
+before_install:
+  - |
+      echo "Checking if a CI run is needed post commit: ${TRAVIS_COMMIT_RANGE}"
+      if ! git diff --name-only ${TRAVIS_COMMIT_RANGE} | grep -qvE '(\.md$)|(\.png$)|(\.pdf$)|(\.html$)|^(LICENSE)|^(docs)/'
+      then
+        echo "Only doc files were updated, not running the CI."
+        exit
+      fi    
 notifications:
     email:
         recipients:
@@ -17,10 +25,7 @@ notifications:
         on_success: change  # options: [always|never|change] default: always
         on_failure: always  # options: [always|never|change] default: always
         on_start: never     # options: [always|never|change] default: always
-ignore:
-  - *.md
-  - doc/*
-  
+
 script:
   - echo 'Build starts!!'
   - echo 'Testing!'
