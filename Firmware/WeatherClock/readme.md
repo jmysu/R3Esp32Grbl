@@ -2,7 +2,7 @@
 
 WeatherClock firmware for Mega32 boards<br>
  
-<img src="doc/DarkSkyWeatherNTP_0820.gif" width="240"> <br>
+<img src="doc/DarkSkyWeatherNTP_0820.gif" width="160"> <br>
 
 
 <br> 
