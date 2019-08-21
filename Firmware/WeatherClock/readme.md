@@ -5,7 +5,7 @@ WeatherClock firmware for Mega32 boards<br>
 <img src="doc/DarkSkyWeatherNTP_0820.gif" width="160"> <br>
 
 WiFi config! ( main menu / config menu) <br>
-<img src="doc/wfm0821.png" width="640" > <img src="doc/wfm0921.png" width="640" ><br><br>
+<img src="doc/wfm0821_1.png" width="320" > <img src="doc/wfm0921.png" width="320" ><br><br>
 
 <br> 
 
