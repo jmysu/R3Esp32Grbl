@@ -8,6 +8,7 @@ WeatherClock firmware for Mega32 boards<br>
 <br> 
 
 ### References
-  - [GRBL](https://github.com/gnea/grbl/wiki) <br>
-  - [ESP32 GRBL](https://github.com/bdring/Grbl_Esp32) <br>
-  - [The WiFi ESP3D-WebUI](https://github.com/luc-github/ESP3D-WEBUI)
+  - [PlatformIO](https://platformio.org/) <br>
+  - [DarkSky Weather API](https://darksky.net/dev)<br>
+  - [NTPClientLib](https://github.com/gmag11/NtpClient)<br>
+  - [ESP Wifimanager](https://github.com/tzapu/WiFiManager) <br>
