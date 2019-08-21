@@ -7,8 +7,6 @@
 ### WiFi manager!    ( main menu / config menu) <br>
 <img src="doc/wfm0921.png" width="240" > <img src="doc/wfm0821_1.png" width="240" ><br><br>
 
-<br> 
-
 ### Dependencies <br>
 <img src="doc/Dependencies.png" width="480" > <br>
 
