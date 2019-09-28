@@ -23,3 +23,9 @@ RESOURCES += \
 
 target.path = $$[QT_INSTALL_EXAMPLES]/serialbus/modbus/master
 INSTALLS += target
+
+RC_FILE = resources.rc
+macx {
+    ICON = myModbusMaster.icns
+    DEFINES += __MACOS__
+    }
